@@ -1,16 +1,26 @@
-### Hi there 👋
+<!-- Início do README.md -->
+<h1 align="center">Bem-vindo(a) ao meu perfil do Github!</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-love-yellow?style=flat-square&logo=javascript" alt="JavaScript Lover">
+</p>
 
-<!--
-**LawliL/LawliL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Olá! Meu nome é Arthur e eu amo programar em JavaScript. Eu sou apaixonado(a) por criar coisas incríveis com a linguagem e estou sempre buscando aprender mais sobre ela.
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">Algumas coisas sobre mim:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando em [projeto atual]
+- 🌱 Atualmente estou aprendendo [assunto que está estudando atualmente]
+- 👯 Estou procurando colaborar em projetos relacionados a JavaScript
+- 📫 Como chegar até mim: [seu email ou redes sociais]
+
+<h2 align="center">Minhas estatísticas no Github:</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LawliL&show_icons=true&theme=radical" alt="Minhas estatísticas no Github">
+</p>
+
+<p align="center">Feito com ❤️ e JavaScript por Arthur</p>
+
+<!-- Fim do README.md -->
