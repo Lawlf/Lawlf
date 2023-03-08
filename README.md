@@ -15,11 +15,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26">
   <img src="https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E">
-  <img src="https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E"><br>
   <img src="https://img.shields.io/badge/Tools-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=339933">
-  <img src="https://img.shields.io/badge/Tools-Express-informational?style=for-the-badge&logo=express&logoColor=white&color=000000">
-  <img src="https://img.shields.io/badge/Tools-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=4848a5">
+  <img src="https://img.shields.io/badge/Tools-React.js-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB"><br>
+  <img src="https://img.shields.io/badge/Framework-Express-informational?style=for-the-badge&logo=express&logoColor=white&color=000000">
+  <img src="https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular.js&logoColor=white&color=a44d4d">
+  <img src="https://img.shields.io/badge/Framework-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=8248a1">
 </p>
 
 <h2 align="center">📈 Estatísticas do Github 📈</h2>
