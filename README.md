@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Sou um(a) engenheiro de software entusiasta por JavaScript, e amo criar aplicações web utilizando as melhores tecnologias e ferramentas disponíveis.
+  Sou um engenheiro de software entusiasta por JavaScript, e amo criar aplicações utilizando as melhores tecnologias e ferramentas disponíveis.
 </p>
 
 <h2 align="center">🚀 Habilidades e Ferramentas 🚀</h2>
