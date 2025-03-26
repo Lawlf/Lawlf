@@ -27,15 +27,14 @@
 <h2 align="center">📈 Estatísticas do Github 📈</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawliL&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais utilizadas por mim">
-  <img src="https://github-readme-stats.vercel.app/api?username=LawliL&show_icons=true&theme=radical&line_height=27&count_private=true" alt="Minhas estatísticas no Github">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawlf&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais utilizadas por mim">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lawlf&show_icons=true&theme=radical&line_height=27&count_private=true" alt="Minhas estatísticas no Github">
 </p>
 
 <h2 align="center">📫 Como entrar em contato 📫</h2>
 
 <p align="center">
   <a href="https://lawlidev.tk"><img src="https://img.shields.io/badge/Website-lawlidev(offline)-informational?style=for-the-badge&logo=google-chrome&logoColor=white&color=4285F4"></a>
-  <a href="https://www.linkedin.com/in/arthur-fernandes-/"><img src="https://img.shields.io/badge/LinkedIn-ArthurFernandes-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5"></a>
 <a href="mailto:[torofote@gmail.com"><img src="https://img.shields.io/badge/Email-torofote@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white&color=D14836"></a>
 
 </p>
