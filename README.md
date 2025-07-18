@@ -1,44 +1,57 @@
-<!-- Início do README.md -->
-<h1 align="center">Olá! Eu sou o Arthur 👋</h1>
-<h3 align="center">Desenvolvedor(a) apaixonado(a) por JavaScript</h3>
+<h1 align="center">Arthur Fernandes</h1>
+<h3 align="center">Desenvolvedor Fullstack • Desde 2021 • Backend robusto, frontend moderno e automações escaláveis</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-love-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Lover">
+  Desenvolvo soluções completas com foco em scraping inteligente, microsserviços, mensageria, busca semântica e interfaces web rápidas e fluídas.
 </p>
 
-<p align="center">
-  Sou um desenvolvedor entusiasta por JavaScript, e amo criar aplicações utilizando as melhores tecnologias e ferramentas disponíveis.
-</p>
+---
 
-<h2 align="center">🚀 Habilidades e Ferramentas 🚀</h2>
+### 🧠 Sobre mim
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26">
-  <img src="https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6">
-  <img src="https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=8c94c4">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E"><br>
-  <img src="https://img.shields.io/badge/Tools-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=339933">
-  <img src="https://img.shields.io/badge/Tools-React.js-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB"><br>
-  <img src="https://img.shields.io/badge/Framework-Express-informational?style=for-the-badge&logo=express&logoColor=white&color=000000">
-  <img src="https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=a44d4d">
-  <img src="https://img.shields.io/badge/Framework-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=8248a1">
-</p>
+Atuo como desenvolvedor fullstack desde 2021, com experiência real em projetos que exigem integração com múltiplas fontes externas, automação de tarefas críticas, estruturação de sistemas backend escaláveis e desenvolvimento de interfaces modernas com foco em experiência do usuário.
 
-<h2 align="center">📈 Estatísticas do Github 📈</h2>
+Tenho sólida atuação em backend com NestJS e TypeScript, incluindo processamento assíncrono com RabbitMQ, autenticação segura com tokens por dispositivo, manipulação eficiente de grandes volumes de dados e sincronizações programadas.  
+No frontend, crio experiências web com Next.js, React e Tailwind, incluindo rolagem infinita, transições em overlay e navegação responsiva. Também integro IA com embeddings de texto e imagem para buscas semânticas e geração de metadados.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawlf&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais utilizadas por mim">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lawlf&show_icons=true&theme=radical&line_height=27&count_private=true" alt="Minhas estatísticas no Github">
-</p>
+Trabalho com responsabilidade de ponta a ponta, desde o scraping e ingestão de dados até a entrega otimizada para o usuário final, lidando com performance, consistência e automação.
 
-<h2 align="center">📫 Como entrar em contato 📫</h2>
+---
 
-<p align="center">
-  <a href="https://lawlidev.tk"><img src="https://img.shields.io/badge/Website-lawlidev(offline)-informational?style=for-the-badge&logo=google-chrome&logoColor=white&color=4285F4"></a>
-<a href="mailto:[torofote@gmail.com"><img src="https://img.shields.io/badge/Email-torofote@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white&color=D14836"></a>
+### 🛠️ Tecnologias & Ferramentas
 
-</p>
-<p align="center">
-  <em>Se você gosta do que eu faço, não hesite em entrar em contato!</em>
-</p>
-<!-- Fim do README.md -->
+**Frontend:**  
+`React` • `Next.js` • `Tailwind CSS` • `Vite`
+
+**Backend:**  
+`NestJS` • `Node.js` • `TypeScript` • `Drizzle ORM` • `PostgreSQL` • `Redis` • `RabbitMQ`
+
+**Scraping e automação:**  
+`Python` • `Playwright` • `Puppeteer` • `Cheerio`
+
+**Busca, dados e IA:**  
+`Typesense` • `Embeddings de texto/imagem` • `LLMs (aplicação prática)`  
+`Normalização semântica` • `Indexação otimizada`
+
+---
+
+### 🔧 Desafios técnicos que costumo resolver
+
+- Coleta e atualização contínua de dados com scraping inteligente e APIs externas
+- Busca instantânea e semântica com Typesense e embeddings
+- Processamento assíncrono e concorrente de grandes volumes de dados
+- Integração de filas com controle de carga e paralelismo seguro
+- Autenticação por dispositivo com tokens temporários e renováveis
+- Interfaces web modernas com navegação fluída, UX otimizada e foco mobile
+- Organização de dados com estrutura limpa, versionamento e padronização
+
+---
+
+### 📫 Contato
+
+- Discord: lawlf
+- Linkedln: [Arthur Fernandes](https://www.linkedin.com/in/arthur-fernandes-/)
+
+---
+
+<em align="center">Construo soluções completas que conectam dados, automação e interfaces modernas com responsabilidade técnica e visão de produto.</em>
