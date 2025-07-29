@@ -1,57 +1,30 @@
 <h1 align="center">Arthur Fernandes</h1>
-<h3 align="center">Desenvolvedor Fullstack • Desde 2021 • Backend robusto, frontend moderno e automações escaláveis</h3>
+<p align="center">
+  <strong>Full-Stack Engineer</strong> • TypeScript | Nest.js | React | Next.js
+</p>
+<p align="center">
+  Construindo backends robustos, frontends modernos e pipelines de dados inteligentes.
+</p>
 
 <p align="center">
-  Desenvolvo soluções completas com foco em scraping inteligente, microsserviços, mensageria, busca semântica e interfaces web rápidas e fluídas.
+  <a href="https://www.linkedin.com/in/arthur-fernandes-/" target="_blank">LinkedIn</a> • 
+  <a href="https://discordapp.com/users/lawlf" target="_blank">Discord</a>
 </p>
 
 ---
 
-### 🧠 Sobre mim
+### 💡 O que eu faço
 
-Atuo como desenvolvedor fullstack desde 2021, com experiência real em projetos que exigem integração com múltiplas fontes externas, automação de tarefas críticas, estruturação de sistemas backend escaláveis e desenvolvimento de interfaces modernas com foco em experiência do usuário.
+Desenvolvo soluções de ponta a ponta, transformando dados brutos em experiências de usuário fluidas e inteligentes. Minha especialidade é criar sistemas escaláveis que resolvem problemas complexos de negócio.
 
-Tenho sólida atuação em backend com NestJS e TypeScript, incluindo processamento assíncrono com RabbitMQ, autenticação segura com tokens por dispositivo, manipulação eficiente de grandes volumes de dados e sincronizações programadas.  
-No frontend, crio experiências web com Next.js, React e Tailwind, incluindo rolagem infinita, transições em overlay e navegação responsiva. Também integro IA com embeddings de texto e imagem para buscas semânticas e geração de metadados.
+- **Backend & Arquitetura:** Microsserviços com **Nest.js** e **RabbitMQ**, APIs com **Node.js**, bancos de dados com **PostgreSQL** e caching com **Redis**.
+- **Frontend:** Interfaces reativas e performáticas com **React**, **Next.js** e **Tailwind CSS**.
+- **Dados & IA:** Pipelines de scraping com **Playwright/Puppeteer**, busca semântica com **Typesense** e aplicação de embeddings e LLMs.
+- **DevOps & Infra:** Migração de bancos de dados, otimização de servidores e integrações com CDNs e storages (Cloudflare, Wasabi ).
 
-Trabalho com responsabilidade de ponta a ponta, desde o scraping e ingestão de dados até a entrega otimizada para o usuário final, lidando com performance, consistência e automação.
+### 🛠️ Tecnologias
 
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-**Frontend:**  
-`React` • `Next.js` • `Tailwind CSS` • `Vite`
-
-**Backend:**  
-`NestJS` • `Node.js` • `TypeScript` • `Drizzle ORM` • `PostgreSQL` • `Redis` • `RabbitMQ`
-
-**Scraping e automação:**  
-`Python` • `Playwright` • `Puppeteer` • `Cheerio`
-
-**Busca, dados e IA:**  
-`Typesense` • `Embeddings de texto/imagem` • `LLMs (aplicação prática)`  
-`Normalização semântica` • `Indexação otimizada`
+`TypeScript` `React` `Next.js` `Node.js` `Nest.js` `PostgreSQL` `Redis` `RabbitMQ` `Docker` `Python` `Playwright` `Typesense` `Tailwind CSS`
 
 ---
-
-### 🔧 Desafios técnicos que costumo resolver
-
-- Coleta e atualização contínua de dados com scraping inteligente e APIs externas
-- Busca instantânea e semântica com Typesense e embeddings
-- Processamento assíncrono e concorrente de grandes volumes de dados
-- Integração de filas com controle de carga e paralelismo seguro
-- Autenticação por dispositivo com tokens temporários e renováveis
-- Interfaces web modernas com navegação fluída, UX otimizada e foco mobile
-- Organização de dados com estrutura limpa, versionamento e padronização
-
----
-
-### 📫 Contato
-
-- Discord: lawlf
-- Linkedln: [Arthur Fernandes](https://www.linkedin.com/in/arthur-fernandes-/)
-
----
-
-<em align="center">Construo soluções completas que conectam dados, automação e interfaces modernas com responsabilidade técnica e visão de produto.</em>
+> Obsessivo por código limpo, arquitetura sólida e soluções que realmente funcionam.
